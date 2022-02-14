@@ -8,7 +8,7 @@ function App() {
     <div className="grid-container">
 		<header className="row">
 			<div>
-				<a className="brand" href="index.html">SΔNKYUU</a>
+				<a className="brand" href="/">SΔNKYUU</a>
 			</div>
 			<div>
 				<a href="/cart">Cart</a>
