@@ -10,7 +10,7 @@ const data= {
             brand: 'Tees;Gate',
             rating: 4.5,
             numReview: 10,
-            description: 'High Quality Anime Shirt'
+            description: 'Looking to add a bit of Anime flair to your look? Make a statement while maintaining a laid-back cool look with this Just a Girl Who Loves Anime T-shirt. Perfect for any time of the year and packed with personality. Great for conventions or cosplay.'
         },
         {
             _id:"2",
@@ -22,7 +22,7 @@ const data= {
             brand: 'DCVZTEA',
             rating: 4.0,
             numReview: 16,
-            description: 'High Quality Anime Shirt'
+            description: 'Occasion: Suitable for Daily wear, Halloween, Cosplay, Theme party, Show, Stage performance, History buffs,etc. A Great Birthday and christmas gifts for your Friends,Family and Anime lovers.'
         },
         {
             _id:"3",
@@ -34,7 +34,7 @@ const data= {
             brand: 'Tees;Gate',
             rating: 5.0,
             numReview: 37,
-            description: 'High Quality Anime Shirt'
+            description: 'MATERIAL：100% high quality canvas printing poster and made of environment-friendly canvas painting that totally compliant with the standard.Clear image, environmentally friendly and safe,they are Durable and water Resistant, Resistant ultraviolet.'
         },
         {
             _id:"4",
@@ -46,7 +46,7 @@ const data= {
             brand: 'SΔNKYUU',
             rating: 4.5,
             numReview: 10,
-            description: 'High Quality Anime Shirt'
+            description: 'Premium Quality: Makima HD pictures on high-quality canvas, long-lasting durability, Water Proof, UV resistant, not easy to fade, The color is beautiful and shiny, Vivid anime scenes would brighten your walls.'
         },
         {
             _id:"5",
@@ -58,7 +58,7 @@ const data= {
             brand: 'SΔNKYUU',
             rating: 4.0,
             numReview: 10,
-            description: 'High Quality Anime Shirt'
+            description: 'High Quality: Power HD pictures on high-quality canvas, long-lasting durability, Water Proof, UV resistant, not easy to fade, The color is beautiful and shiny, Vivid anime scenes would brighten your walls.'
         },
         {
             _id:"6",
@@ -70,7 +70,7 @@ const data= {
             brand: 'SΔNKYUU',
             rating: 4.5,
             numReview: 10,
-            description: 'High Quality Anime Shirt'
+            description: 'Material: waterproof canvas printing, environmentally safe and green non-toxic, so that our canvas painting is not easy to fade and durable, easy to take care of, can be wiped with a wet cloth this artwork.'
         },
     ]
 }

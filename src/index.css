@@ -153,3 +153,18 @@ img.large{
 .error{
 	color:red;
 }
+.alert{
+	padding: 1rem;
+	border: 0.1rem solid transparent;
+	border-radius: 0.5rem;
+	margin: 0 auto; /* edited by me */
+}
+.alert-info{
+	color: #2020a0;
+	background-color: #e0e0ff;
+}
+.alert-danger{
+	display:table; /* edited by me */
+	color: #a02020;
+	background-color: #ffe0e0e0;
+}
